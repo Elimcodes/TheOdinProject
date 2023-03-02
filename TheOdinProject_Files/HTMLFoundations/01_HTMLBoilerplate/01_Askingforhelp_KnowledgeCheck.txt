@@ -1,0 +1,31 @@
+The Odin Project 
+
+	Knowledge Check: 
+Asking for help:
+Name at least one thing your question should always include.
+Describe the “XY Problem”.
+Describe three attributes of a “help vampire”.
+1. Your question should always include your code
+and the surrounding context.
+2. The user wants to do x.
+The user doesnt know how to to x, but thinks
+they can fumble their way to a solution
+if they can just manage to do y.
+User doesnt know how to do Y either
+User asks for help with Y.
+Others try to help user with Y 
+but are confused because Y seems like
+a strange problem to want to solve. 
+After interaction and wasted time, it
+becomes clear that the user really wants
+help with X, and that y wasn't a suitable
+solution to x. 
+Basically: the problem occurs when people
+get stuck on what they believe is the solution
+and are unable to step back and explain the issue
+in full. 
+3. Three attributes of a help vampire:
+	1. Lacks the ability/inclination to ask Google.
+	2. Refuses to take time to ask coherent, specific questions.
+	3. He thinks helping him is the high point of your day. 
+	

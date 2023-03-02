@@ -1,0 +1,22 @@
+How do you create a paragraph in HTML?
+How do you create a heading in HTML?
+How many different levels of headings are there and what is the difference between them?
+What element should you use to make text bold and important?
+What element should you use to make text italicized to add emphasis to it?
+What relationship does an element have with any nested elements within it?
+What relationship do two elements have if they are at the same level of nesting?
+How do you create HTML comments?
+
+1. <p></p> tags
+2. <h1></h1> tags
+3. There are six different levels of headings. H1 is the largest,
+while h6 is the smallest. 
+4. We use the <strong></strong> element to make
+text bold and important.
+5. We use the <i> or <em> tags to italicize text and add emphasis.
+6. The relationship between a nesting element and 
+nested elements is a parent-child relationship. 
+The nesting element is the parent, while the nested element is  the child.
+7. Elements of the same level of nesting are considered to be
+siblings. 
+8. The comment goes between <!-- and -->

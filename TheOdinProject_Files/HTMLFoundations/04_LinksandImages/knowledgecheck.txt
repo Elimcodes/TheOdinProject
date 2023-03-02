@@ -1,0 +1,25 @@
+What element is used to create a link?
+What is an attribute?
+What attribute tells links where to go to?
+What is the difference between an absolute and relative link?
+Which element is used to display an image?
+What two attributes do images always need to have?
+How do you access a parent directory in a filepath?
+What are the four main image formats that you can use for images on the web?
+
+1. The <a> anchor element is used to create a link.
+2.  An attribute gives additional information to an
+HTML element and always goes in the element's opening
+tag. It is usually made up of two parts: a name, and a value.
+3. the href attribute tells links where to go. 
+4. 
+An absolute link links to pages on other websites. 
+While,
+A Relative link links to other pages within our own website.
+5. The <img> element, used in conjunction with the src attribute,
+displays an image. 
+6. Images always have to have a src attribute and an alt attribute.
+7. You can access a parent directory in a filepath by typing '../' in the filepath. 
+ex) <img src="../images/dog.jpg"> 
+8. The four main image formats that you can use
+for images on the web are JPG, GIF, PNG and SVG. 

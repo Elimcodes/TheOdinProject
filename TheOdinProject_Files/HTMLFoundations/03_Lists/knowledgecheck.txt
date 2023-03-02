@@ -1,0 +1,7 @@
+What HTML element is used to create an unordered list?
+What HTML element is used to create an ordered list?
+What HTML element is used to create list items within both unordered and ordered lists?
+
+1. the <ul> element.
+2. the <ol> element. 
+3.  the <li> element. 
