@@ -1,3 +1,7 @@
 body {
     background-color: rgb(222, 240, 247);
 }
+
+a {
+    font-weight: bold;
+}
