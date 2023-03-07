@@ -1,0 +1,30 @@
+From inside to outside, what is the order of box-model properties?
+What does the box-sizing CSS property do?
+What is the difference between the standard and alternative box model?
+Would you use margin or padding to create more space between 2 elements?
+Would you use margin or padding to create more space between the contents of an element and its border?
+Would you use margin or padding if you wanted two elements to overlap each other?
+
+1. content, padding, border, and margin. 
+2. The box-sizing css property sets how the total width and height of 
+an element is calculated. 
+3. If you are using the standard box model, 
+the size of the border is added to the width and height of the content
+box. 
+When you are using the alternative box model, the size of the border
+makes the content box smaller as it takes up some of that available
+width and height of the element box. 
+
+The difference between the two is that the standard box Models
+border is added to the width and height of the content box, 
+while the alternative box model's border makes the content box
+smaller as it takes up some of the available width and height of the 
+element box. 
+
+4.I would use margin to create space between 2 elements. 
+
+5. I would use padding to create more space between the contents
+of an element and its border. 
+
+6. I would use negative margins, if I wanted two elements to overlap
+each other. 
