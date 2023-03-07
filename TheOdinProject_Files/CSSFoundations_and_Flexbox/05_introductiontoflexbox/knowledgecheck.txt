@@ -10,4 +10,4 @@ It is any element with
   A flex item is any element that lives directly inside of a flex container. 
 
 2. You can create flex items by nesting elements within an element that has
-display: flex; 
+display: flex, and putting flex:1 on those flex items. 
