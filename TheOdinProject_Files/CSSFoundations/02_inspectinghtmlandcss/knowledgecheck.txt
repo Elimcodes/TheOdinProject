@@ -1,0 +1,9 @@
+How do you select a specific element on your page with your browser’s developer tools?
+What does a strikethrough in a CSS declaration mean in your browser’s developer tools?
+How do you change CSS in real time on specific elements of a web page with your browser’s developer tools?
+
+1. Right click the element and press 'inspect'.
+2. A strike through indicates that a style is being over
+written. 
+3. The style pane allows you to edit styles directly
+in the browser. 
