@@ -1,0 +1,34 @@
+What are the main differences between external, internal, and inline CSS?
+What is the syntax for class and ID selectors?
+How would you apply a single rule to two different selectors?
+Given an element that has an id of title and a class of primary, how would you use both attributes for a single rule?
+What does the descendant combinator do?
+Between a rule that uses one class selector and a rule that uses three type selectors, which rule has the higher specificity?
+
+1. external css is when the html document links an external (.css) document for 
+markup information. The linking is done inside an HTML's opening and closing
+<head> tags with a self closing <link> element. 
+Internal css is when the styling information is written within the HTML document, 
+as opposed to being in a completely seperate file. 
+In line css is when the styling information is written in an inline attribute, written 
+directly inside the HTML elements tag. 
+ex) <h1 style=""/> 
+
+2. Class selectors will select all elements within the given class,
+which is just an attribute you place on an HTML element. 
+ID selectors select an element with the given ID, which is another attribute you
+place on an HTML element. 
+
+3. You can apply a single rule to two different selectors by adding a comma between
+them. 
+
+4. I would chain the id of title and the class of primary, by placing them side 
+by side. 
+
+5. The desendant combinator causes elements that match the last
+selector to be selected if they also have an ancestor (parent, grandparent, etc) 
+that matches the previous selector.
+
+6. A class selector will always beat any number of type selectors. 
+The rule that uses one class selector has higher specificity than the rule
+that uses three type selectors. 
