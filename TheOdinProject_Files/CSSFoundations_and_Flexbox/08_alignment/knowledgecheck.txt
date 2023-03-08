@@ -1,0 +1,21 @@
+What is the difference between justify-content and align-items?
+How do you use flexbox to completely center a div inside a flex container?
+What’s the difference between justify-content: space-between and justify-content: space-around?
+
+1. justify-content changes the orientation of the item along the main axis, 
+while align-items changes the orientation of the item along the cross axis. 
+
+2. You can use flexbox to completely center a div inside a flex container by 
+typing:
+
+selector {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+
+3. The difference between justify-content: space-between and justify-content: space-around 
+is that with space between, there is space between the left, middle and right items, but not around them.
+With space-around there is space between the left, middle, and right items and around them. 
+
+
